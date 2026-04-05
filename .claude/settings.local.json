@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(export PATH=\"$HOME/.nvm/versions/node/v20.19.5/bin:$PATH\")",
-      "Bash(npm install:*)"
-    ]
-  }
-}
